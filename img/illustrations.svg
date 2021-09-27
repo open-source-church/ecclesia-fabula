@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96mm"
+   height="96mm"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="illustrations.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.53354915"
+     inkscape:cx="299.87865"
+     inkscape:cy="429.20132"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-page="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4373"
+       inkscape:export-filename="nef.png"
+       inkscape:export-xdpi="317.5"
+       inkscape:export-ydpi="317.5"
+       style="fill:#000055;fill-opacity:1">
+      <path
+         id="path2595"
+         style="opacity:0.5;fill:#000055;fill-opacity:1;stroke-width:0.212655;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="m 64.000226,112.00006 v 16.00005 H 51.999927 v -12.0003 H 40.000142 v 12.0003 H 16.000057 v 8.00003 H 0 v 16.00006 h 16.000057 v 8.00003 h 24.000085 v 11.99978 h 11.999785 v -11.99978 h 12.000299 v 15.99954 h 15.999542 v -15.99954 a 16,16 0 0 0 13.856517,-8.00003 16,16 0 0 0 0,-16.00006 16,16 0 0 0 -13.856517,-8.00003 v -16.00005 z" />
+      <rect
+         style="fill:#000055;fill-opacity:1;stroke-width:0.212655;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2597"
+         width="48.000004"
+         height="32"
+         x="16"
+         y="128" />
+      <rect
+         style="opacity:0;fill:#000055;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2611"
+         width="96"
+         height="96"
+         x="0"
+         y="96" />
+    </g>
+    <g
+       id="g4368"
+       inkscape:export-filename="parvis.png"
+       inkscape:export-xdpi="317.5"
+       inkscape:export-ydpi="317.5"
+       style="fill:#000055;fill-opacity:1">
+      <path
+         id="rect2034"
+         style="opacity:0.5;fill:#000055;fill-opacity:1;stroke-width:0.212655;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="M 64.000226,16.000057 V 32.000113 H 51.999927 v -12.0003 H 40.000142 v 12.0003 H 16.000057 v 8.000029 H 0 V 56.0002 h 16.000057 v 8.000026 H 40.000142 V 76.000011 H 51.999927 V 64.000226 H 64.000226 V 79.999768 H 79.999768 V 64.000226 a 16,16 0 0 0 13.856517,-8.000026 16,16 0 0 0 0,-16.000058 16,16 0 0 0 -13.856517,-8.000029 V 16.000057 Z" />
+      <rect
+         style="fill:#000055;fill-opacity:1;stroke-width:0.0868157;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="parvis"
+         width="16"
+         height="16"
+         x="40"
+         y="-16"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:0;fill:#000055;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2397"
+         width="96"
+         height="96"
+         x="0"
+         y="0" />
+    </g>
+    <g
+       id="g4380"
+       inkscape:export-filename="chapelle.png"
+       inkscape:export-xdpi="317.5"
+       inkscape:export-ydpi="317.5"
+       style="fill:#000055;fill-opacity:1">
+      <path
+         id="path2613"
+         style="opacity:0.5;fill:#000055;fill-opacity:1;stroke-width:0.212655;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="m 160.00023,16.000057 v 16.000056 h -12.0003 v -12.0003 h -11.99979 v 12.0003 h -24.00008 v 8.000029 H 96 V 56.0002 h 16.00006 v 8.000026 h 24.00008 v 11.999785 h 11.99979 V 64.000226 h 12.0003 v 15.999542 h 15.99954 V 64.000226 a 16,16 0 0 0 13.85652,-8.000026 16,16 0 0 0 0,-16.000058 16,16 0 0 0 -13.85652,-8.000029 V 16.000057 Z" />
+      <g
+         id="g2627"
+         transform="translate(96)"
+         style="fill:#000055;fill-opacity:1">
+        <rect
+           style="fill:#000055;fill-opacity:1;stroke-width:0.0651118;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           id="rect2623"
+           width="12"
+           height="12"
+           x="64"
+           y="-52"
+           transform="rotate(90)" />
+        <rect
+           style="fill:#000055;fill-opacity:1;stroke-width:0.0651118;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           id="rect2625"
+           width="12"
+           height="12"
+           x="20"
+           y="-52"
+           transform="rotate(90)" />
+      </g>
+      <rect
+         style="opacity:0;fill:#000055;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2629"
+         width="96"
+         height="96"
+         x="96"
+         y="0" />
+    </g>
+    <g
+       id="g4385"
+       inkscape:export-filename="transept.png"
+       inkscape:export-xdpi="317.5"
+       inkscape:export-ydpi="317.5"
+       style="fill:#000055;fill-opacity:1">
+      <path
+         id="path2631"
+         style="opacity:0.5;fill:#000055;fill-opacity:1;stroke-width:0.212655;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="m 160.00023,112.00006 v 16.00005 h -12.0003 v -12.0003 h -11.99979 v 12.0003 h -24.00008 v 8.00003 H 96 v 16.00006 h 16.00006 v 8.00003 h 24.00008 v 11.99978 h 11.99979 v -11.99978 h 12.0003 v 15.99954 h 15.99954 v -15.99954 a 16,16 0 0 0 13.85652,-8.00003 16,16 0 0 0 0,-16.00006 16,16 0 0 0 -13.85652,-8.00003 v -16.00005 z" />
+      <rect
+         style="fill:#000055;fill-opacity:1;stroke-width:0.173632;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2637"
+         width="64"
+         height="16"
+         x="112"
+         y="-176"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:0;fill:#000055;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2647"
+         width="96"
+         height="96"
+         x="96"
+         y="96" />
+    </g>
+    <g
+       id="g4390"
+       inkscape:export-filename="choeur.png"
+       inkscape:export-xdpi="317.5"
+       inkscape:export-ydpi="317.5"
+       style="fill:#000055;fill-opacity:1">
+      <path
+         id="path2649"
+         style="opacity:0.5;fill:#000055;fill-opacity:1;stroke-width:0.212655;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         d="m 256.00023,16.000057 v 16.000056 h -12.0003 v -12.0003 h -11.99979 v 12.0003 h -24.00008 v 8.000029 H 192 V 56.0002 h 16.00006 v 8.000026 h 24.00008 v 11.999785 h 11.99979 V 64.000226 h 12.0003 v 15.999542 h 15.99954 V 64.000226 a 16,16 0 0 0 13.85652,-8.000026 16,16 0 0 0 0,-16.000058 16,16 0 0 0 -13.85652,-8.000029 V 16.000057 Z" />
+      <path
+         style="fill:#000055;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="path2653"
+         sodipodi:type="arc"
+         sodipodi:cx="-48"
+         sodipodi:cy="272"
+         sodipodi:rx="16"
+         sodipodi:ry="16"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         sodipodi:arc-type="slice"
+         transform="rotate(-90)"
+         d="m -32,272 a 16,16 0 0 1 -8,13.85641 16,16 0 0 1 -16,0 A 16,16 0 0 1 -64,272 h 16 z" />
+      <rect
+         style="opacity:0;fill:#000055;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect2665"
+         width="96"
+         height="96"
+         x="192"
+         y="0" />
+    </g>
+    <rect
+       style="opacity:0;fill:#000055;fill-opacity:1;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="rect2683"
+       width="96"
+       height="96"
+       x="192"
+       y="96" />
+  </g>
+</svg>

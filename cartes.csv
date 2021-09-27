@@ -1,0 +1,73 @@
+Type,Catégorie,Icone,Icone-when-updated,Titre,Description
+Titre,,church,,"Ecclesia
+Fabula",
+Règles,,,,Règles succintes,"**Règles**
+Petit résumé succint des règles…
+
+**Crédits**
+Basé sur <i>Via Fabula</i> de *www.drnemrod.ch*
+Icônes : CC-BY 3.0 *game-icons.net*"
+Architecture,Element,Stone-bust,,Statue,
+Architecture,Element,Cracked-glass,,Vitrail,"Composition décorative translucide, formées de pièces de verre colorées dans une armature de plomb."
+Architecture,Element,table,,Table de communion,Sert à la célébration de la Cène. Appelée «autel» quand elle est comprise comme le lieu d’un sacrifice.
+Architecture,Element,Eglise-nef,,Nef,"L’espace principal d'accueil des fidèles, qui forme un vaisseau et s'étend entre le portail et le chœur."
+Architecture,Element,,,Rosace,
+Architecture,Element,Piano-keys,pipe-organ,Orgue,"Instrument de musique à vent, à un ou plusieurs claviers."
+Architecture,Element,doorway,,Porte,
+Architecture,Element,Water-splash,,Baptistère,Sert à recueillir l’eau pour célébrer les baptêmes.
+Architecture,Element,,,Chaire,Petite tribune surélevée dans laquelle va l’officiant pour prêcher.
+Architecture,Element,Stone-throne,,Siège,
+Architecture,Element,,,Banc,
+Architecture,Element,Eglise-choeur,,Chœur,"L’espace situé au-delà de la nef, généralement réservé au clergé"
+Architecture,Element,Eglise-chapelle,,Chapelle latérale,Enceinte aménagée dans une église.
+Architecture,Element,Ancient-columns,,Colonne,
+Architecture,Element,,,Porche,"Construction élevée devant le portail d’une église, en bois ou en pière."
+Architecture,Element,3d-stairs,,Marches,
+Architecture,Element,Arch-bridge,,Arche,
+Architecture,Element,Wax-tablet,,Citation,
+Architecture,Element,crucifix,,Crucifix,
+Architecture,Element,Mona-lisa,,Peinture,
+Architecture,Element,Eglise-parvis,,Parvis,"L’espace extérieur, situé devant l'entrée principale. Un lieu d'échange, de rencontre et de rassemblement."
+Architecture,Element,,,Sacristie,"Petite annexe, servant de vestiaire et de reserve pour le matériel liturgique."
+Architecture,Element,Crypt-entrance,,Crypte,"Salle souterraine, généralement sous le chœur, ou l’on plaçait des corps, généralement de martyrs ou de saint."
+Architecture,Element,,,Transept,Vaisseau qui coupe la nef au niveau du chœur et donne la forme de croix au bâtiment.
+Architecture,Element,Ringing-bell,,Clocher,Tour percée abritant la ou les cloches.
+Architecture,Element,,,Clef de voûte,Pierre placée à l’intersection des nervures qui soutiennent une voûte.
+Architecture,Element,Broken-tablet,,Gravure,
+Architecture,Element,gargoyle,,Gargouille,Gouttière saillante à laquelle on donne souvent la forme d’un animal fantastique
+Architecture,Element,Painted-pottery,,Objet liturgique,
+Architecture,Divers,Edge-crack,,Fissure,
+Architecture,Divers,aerosol,,Graffiti,Une marque laissée par un passant non-autorisé…
+Architecture,Divers,Broken-wall,,Marque d’usure,
+Architecture,Divers,Stone-tower,,Trace de rénovation,
+Architecture,Divers,Lit-candelabra,,Bougie,
+Architecture,Divers,Open-book,,Livre,
+Architecture,Divers,Rolled-cloth,,Tissu,
+Architecture,Divers,Shield-reflect,,Reflet,
+Architecture,Divers,Stone-wall,,Imperfection,Parfois des imperfections sont laissées intentionnellement par les architectes pour rappeler que seul Dieu est parfait.
+Architecture,Divers,Magnifying-glass,,Détail insolite,« Que ceux qui ont des yeux pour voir voient ! »
+Thème,,conqueror,,Personnage historique,"Guillaume Tell, Jules César, etc."
+Thème,,waterfall,,Source enchantée,
+Thème,,Night-vision,,Créature de la nuit,
+Thème,,Dripping-blade,,Meurtre abominable,
+Thème,,booze,,Histoire de beuverie,
+Thème,,Hooded-figure,,Mystère impénétrable,
+Thème,,Materials-science,,Matériaux merveilleux,
+Thème,,,,Héroïsme au quotidien,
+Thème,,Wooden-sign,,Lieu hors du temps,
+Thème,,spy,,Histoire de trahison,
+Thème,,Broken-heart,,Romance impossible,
+Thème,,Heart-wings,,Don sans pareil,
+Thème,,amplitude,,Son qui traverse les âges,
+Thème,,fragrance,,Parfum venu d’ailleurs,
+Thème,,palette,,Couleur qui a du sens,
+Thème,,Three-friends,,Amitié indestructible,
+Thème,,Locked-heart,,Amour inavoué,
+Thème,,darkzaitzev/revolt,,Colère terrible,
+Thème,,duration,,Le passage du temps,
+Thème,,bindle,,Voyageur insolite,
+Thème,,convince,,Message secret,
+Thème,,choice,,Choix impossible,
+Thème,,screaming,,Terreur abyssale,
+Thème,,Night-sleep,,Sommeil profond,
+Thème,,unicorn,,Créature mythique,
